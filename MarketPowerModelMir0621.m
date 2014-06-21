@@ -233,6 +233,7 @@ classdef MarketPowerModelMir0621 < handle
             w0= [1,1];
             Y= fsolve(f, w0, optimset('Display', 'off'));
         end
+%%THis is sthisamymrgwdhwfbh
 
 
 %%
